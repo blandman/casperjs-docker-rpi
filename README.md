@@ -1,5 +1,5 @@
 # casperjs-docker-rpi
-#### From (https://github.com/ollihoo/phantomjs-docker-rpi)[phantomjs-docker-rpi]
+#### From [https://github.com/ollihoo/phantomjs-docker-rpi](phantomjs-docker-rpi)
 
 This project provides a phantomjs binary and casperjs npm module that can be used on a raspberry pi.
 
